@@ -1,8 +1,6 @@
 # credit-risk-assessment
 Supervised Machine Learning to Assess Credit Risk
 
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of this analysis was to leverage Supervised Machine Learning to determine whether a potential borrower would be a reliable investment based on their prior financial data. Using historical data of healthy and risky loans we investigated the borrowers based on their credit history (income, debt, number of banking accounts, & delinquent payments) and the qualities of the loan itself (total amount & interest rate). Predicting whether a loan would be healthy or risky helps financial institutions to minimize losses and lend confidently. 
